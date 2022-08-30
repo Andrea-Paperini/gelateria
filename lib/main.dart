@@ -20,7 +20,7 @@ class RutApp extends StatelessWidget {
       fontWeight: FontWeight.bold,
     ),),
             Container(height: 20,),
-    Image.network('https://mammaioparto.com/wp-content/uploads/2020/04/mettere-il-soggetto-al-centro.jpg'),
+    Image.network('https://www.beatricemargani.it/wp-content/uploads/2020/05/gelato.jpg'),
             Container(height: 20,),
     ElevatedButton(
     onPressed: () {
